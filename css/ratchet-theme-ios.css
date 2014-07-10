@@ -117,10 +117,10 @@ p {
 }
 
 .bar {
-  background-color: rgba(247, 247, 247, .98);
+  background-color: #fff;
   border-bottom: 0;
-  -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, .85);
-          box-shadow: 0 0 1px rgba(0, 0, 0, .85);
+  -webkit-box-shadow: 0 0 10px #006544;
+          box-shadow: 0 0 10px #006544;
 }
 .bar.bar-header-secondary {
   top: 44px;

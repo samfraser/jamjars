@@ -300,6 +300,7 @@ a:active {
 
 .content-padded {
   margin: 10px;
+  text-align: center;
 }
 
 .pull-left {
